@@ -1,0 +1,135 @@
+{
+    "nouns": [
+
+"Actor",	"Gold",	"Painting",
+"Advertisement",	"Grass",	"Parrot",
+"Afternoon",	"Greece",	"Pencil",
+"Airport",	"Guitar",	"Piano",
+"Ambulance",	"Hair",	"Pillow",
+"Animal",	"Hamburger",	"Pizza",
+"Answer",	"Helicopter",	"Planet",
+"Apple",	"Helmet",	"Plastic",
+"Army",	"Holiday",	"Portugal",
+"Australia",	"Honey",	"Potato",
+"Balloon",	"Horse",	"Queen",
+"Banana",	"Hospital",	"Quill",
+"Battery",	"House",	"Rain",
+"Beach",	"Hydrogen",	"Rainbow",
+"Beard",	"Ice",	"Raincoat",
+"Bed",	"Insect",	"Refrigerator",
+"Belgium",	"Insurance",	"Restaurant",
+"Boy",	"Iron",	"River",
+"Branch",	"Island",	"Rocket",
+"Breakfast",	"Jackal",	"Room",
+"Brother",	"Jelly",	"Rose",
+"Camera",	"Jewellery",	"Russia",
+"Candle",	"Jordan",	"Sandwich",
+"Car",	"Juice",	"School",
+"Caravan",	"Kangaroo",	"Scooter",
+"Carpet",	"King",	"Shampoo",
+"Cartoon",	"Kitchen",	"Shoe",
+"China",	"Kite",	"Soccer",
+"Church",	"Knife",	"Spoon",
+"Crayon",	"Lamp",	"Stone",
+"Crowd",	"Lawyer",	"Sugar",
+"Daughter",	"Leather",	"Sweden",
+"Death",	"Library",	"Teacher",
+"Denmark",	"Lighter",	"Telephone",
+"Diamond",	"Lion",	"Television",
+"Dinner",	"Lizard",	"Tent",
+"Disease",	"Lock",	"Thailand",
+"Doctor",	"London",	"Tomato",
+"Dog",	"Lunch",	"Toothbrush",
+"Dream",	"Machine",	"Traffic",
+"Dress",	"Magazine",	"Train",
+"Easter",	"Magician",	"Truck",
+"Egg",	"Manchester",	"Uganda",
+"Eggplant",	"Market",	"Umbrella",
+"Egypt",	"Match",	"Van",
+"Elephant",	"Microphone",	"Vase",
+"Energy",	"Monkey",	"Vegetable",
+"Engine",	"Morning",	"Vulture",
+"England",	"Motorcycle",	"Wall",
+"Evening",	"Nail",	"Whale",
+"Eye",	"Napkin",	"Window",
+"Family",	"Needle",	"Wire",
+"Finland",	"Nest",	"Xylophone",
+"Fish",	"Nigeria",	"Yacht",
+"Flag",	"Night",	"Yak",
+"Flower",	"Notebook",	"Zebra",
+"Football",	"Ocean",	"Zoo",
+"Forest",	"Oil",	"Garden",
+"Fountain",	"Orange",	"Gas",
+"France",	"Oxygen",	"Girl",
+"Furniture",	"Oyster",	"Glass",
+"Garage",	"Ghost"
+    ],
+    "pronouns" : {
+        "personal" : [
+            "I", "we", "you", "he", "she", "it", "they"
+        ],
+        "demonstrative" : [
+            "such", "that", "these", "this", "those"
+        ],
+        "object" : [
+            "me", "us", "you", "her", "him", "it", "them"
+        ],
+        "relative" : [
+            "as", "that", "what", "whatever", "which",
+            "whichever", "who", "whoever", "whom", "whomever",
+            "whose"
+        ],
+        "indefinite" : [
+            "all", "another", "any", "anybody", "anyone",
+            "anything", "both", "each", "either", "everybody",
+            "everyone", "everything", "few", "many", "most",
+            "neither", "nobody", "none", "no one", "nothing",
+            "one", "other", "others", "several", "some",
+            "somebody", "someone", "something", "such"
+        ],
+        "interrogative" : [
+            "what", "whatever", "which", "whichever", "who",
+            "whoever", "whom", "whomever", "whose"
+        ],
+        "reflexive" : [
+            "myself", "yourself", "herself", "himself", "itself",
+            "ourselves", "yourselves", "themselves"
+        ],
+        "intensive" : [
+            "myself", "yourself", "herself", "himself", "itself",
+            "ourselves", "yourselves", "themselves"
+        ],
+        "possessive" : [
+            "me", "us", "you", "her", "him", "it", "them"
+        ],
+        "archaic" : [
+            "thou", "thee", "thy", "thine", "ye"
+        ]
+    },
+    "verbs" : {
+        "past tense" : [
+
+        ],
+        "present tense" : [
+
+        ]
+    },
+    "adjectives" : [
+
+    ],
+    "adverbs" : [
+
+    ],
+    "articles" : [
+
+    ],
+    "prepositions" : [
+
+    ],
+    "conjunctions" : [
+
+    ],
+    "interjections" : [
+
+    ]
+}
