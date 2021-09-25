@@ -912,9 +912,44 @@
         "versus", "via", "with",
         "with regard to", "within", "without"
     ],
-    "conjunctions" : [
-
-    ],
+    "conjunctions" : {
+        "coordinating" : [
+            "for", "and", "nor", "but", "or", "yet", "so"
+        ],
+        "subordinating" : {
+            "concession" : [
+                "though", "although", "even though", "while"
+            ],
+            "time" : [
+                "after", "as long as", "as soon as", "before",
+                "by the time", "now that", "once", "since",
+                "till", "until", "when", "whenever", "while"
+            ],
+            "adjective" : [
+                "that", "what", "whatever", "which", "whichever"
+            ],
+            "condition" : [
+                "if", "only if", "unless", "until", "providing that",
+                "assuming that", "even if", "lest"
+            ],
+            "pronoun" : [
+                "who", "whoever", "whom", "whomever", "whose"
+            ],
+            "comparison" : [
+                "than", "rather than", "whether", "as much as",
+                "whereas"
+            ],
+            "reason" : [
+                "because", "since", "so that", "why"
+            ],
+            "manner" : [
+                "how", "as though", "as if"
+            ],
+            "place" : [
+                "where", "wherever"
+            ]
+        }
+    },
     "interjections" : [
 
     ]
