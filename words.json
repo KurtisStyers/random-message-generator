@@ -964,11 +964,19 @@
         "wahoo", "well", "whoa", "whoops", "wow",
         "yeah", "yes", "yikes", "yippee", "yo", "yuck"
     ],
+    "was" : ["was"],
+    "is" : ["is"],
     "sentences" : {
         "1" : [
             "articles", "adjectives", "nouns",
             "past-tense-verbs", "possessive-pronouns", 
             "adverbs"
-         ]
+         ],
+         "2" : [
+             "articles", "nouns", "is", "present-tense-verbs"
+         ],
+         "3" : [
+            "articles", "nouns", "was", "past-tense-verbs"
+        ]
     }
 } 
