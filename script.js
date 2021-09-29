@@ -6,6 +6,7 @@ const sentence = data.sentences[Math.ceil(
 
 for (let i = 0; i < sentence.length; i++) {
     let wordNum = Math.floor(Math.random() * data[sentence[i]].length);
+    message.push(data[sentence[i]][wordNum]);
     
     if (i != 0 && sentence[i-1] === "articles") {
         let letter = message[i][0].toLowerCase();
