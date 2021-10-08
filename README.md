@@ -1,4 +1,2 @@
 # random-message-generator
-A random message generator
-
-## A work in progress
+This script will generate a random message based on the words and sentence structures in the JSON file.
